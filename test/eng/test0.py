@@ -4,4 +4,6 @@ for i in a:
     if i>5:
         print(True)
     else:
-        print(False)
+        print(" else statement")
+        
+print("   print('lol') ")
